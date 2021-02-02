@@ -1,0 +1,10 @@
+.grid-item {
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+    width: 300px;
+}
+
+.special-item {
+    border-style: groove;
+}

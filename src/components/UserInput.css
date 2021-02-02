@@ -1,0 +1,19 @@
+.input-form {
+    padding: 20px;
+    text-align: center;
+}
+
+.user-input {
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.user-submit {
+    width: 100%;
+    padding: 20px;
+}
+
+.user-submit:not(:disabled):hover {
+    cursor: pointer;
+}
