@@ -15,4 +15,4 @@ Please follow below steps to run the app in local environment.
     If you don't want to install modules in your local, then please make use of files (prebundled one) inside `dist` folder.
     
 If you want to check the app in online directly, then please use the below link.
-  http://coloraword.herokuapp.com/
+  https://coloraword.herokuapp.com/
