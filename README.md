@@ -2,7 +2,7 @@
 
 As per the requirement, I developed this app.
 
-However because of security reasons (for API authentication details), I deployed node proxy server as well in Heroku to handle API actions with `https://www.pexels.com/`.
+However because of security reasons (for API authentication details), I deployed node proxy server as well in Heroku to handle API actions with https://www.pexels.com/.
 
 To know about helper libraries used in this app, please have a look at `package.json` file.
 
